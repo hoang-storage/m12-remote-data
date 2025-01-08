@@ -1,0 +1,93 @@
+[
+ {
+  "pos": 1,
+  "categories": "\"Seasonal\" Christmas",
+  "id": 1,
+  "banner": 1,
+  "thumb": "banner_season.jpg"
+ },
+ {
+  "pos": 2,
+  "categories": "Cartoon",
+  "id": 2,
+  "banner": 1,
+  "thumb": "banner_cartoon.jpg"
+ },
+ {
+  "pos": 3,
+  "categories": "Cute",
+  "id": 3,
+  "banner": 0,
+  "thumb": "banner_cute.jpg"
+ },
+ {
+  "pos": 4,
+  "categories": "Chibi",
+  "id": 4,
+  "banner": 0,
+  "thumb": "banner_chibi.jpg"
+ },
+ {
+  "pos": 5,
+  "categories": "Anime",
+  "id": 5,
+  "banner": 1,
+  "thumb": "banner_anime.jpg"
+ },
+ {
+  "pos": 6,
+  "categories": "Naruto",
+  "id": 6,
+  "banner": 0,
+  "thumb": "banner_naruto.jpg"
+ },
+ {
+  "pos": 7,
+  "categories": "Onepiece",
+  "id": 7,
+  "banner": 1,
+  "thumb": "banner_onepiece.jpg"
+ },
+ {
+  "pos": 8,
+  "categories": "Jujutsu Kaisen",
+  "id": 8,
+  "banner": 0,
+  "thumb": "banner_jujutsu.jpg"
+ },
+ {
+  "pos": 9,
+  "categories": "Spy X Family",
+  "id": 9,
+  "banner": 0,
+  "thumb": "banner_spy.jpg"
+ },
+ {
+  "pos": 10,
+  "categories": "Demon Slayer",
+  "id": 10,
+  "banner": 0,
+  "thumb": "banner_demon.jpg"
+ },
+ {
+  "pos": 11,
+  "categories": "Dragonball",
+  "id": 11,
+  "banner": 1,
+  "thumb": "banner_dragonball.jpg"
+ },
+ {
+  "pos": 12,
+  "categories": "My Hero Academia",
+  "id": 12,
+  "banner": 0,
+  "thumb": "banner_heroacademia.jpg"
+ },
+ {
+  "pos": 13,
+  "categories": "Pokemon",
+  "id": 13,
+  "banner": 1,
+  "thumb": "banner_pokemon.jpg"
+ }
+]
