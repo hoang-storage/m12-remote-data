@@ -1,10 +1,10 @@
 [
  {
   "pos": 1,
-  "categories": "\"Seasonal\" Christmas",
-  "id": 1,
-  "banner": 1,
-  "thumb": "banner_season.jpg"
+  "categories": "Jujutsu Kaisen",
+  "id": 8,
+  "banner": 0,
+  "thumb": "banner_jujutsu.jpg"
  },
  {
   "pos": 2,
@@ -50,44 +50,44 @@
  },
  {
   "pos": 8,
-  "categories": "Jujutsu Kaisen",
-  "id": 8,
-  "banner": 0,
-  "thumb": "banner_jujutsu.jpg"
- },
- {
-  "pos": 9,
   "categories": "Spy X Family",
   "id": 9,
   "banner": 0,
   "thumb": "banner_spy.jpg"
  },
  {
-  "pos": 10,
+  "pos": 9,
   "categories": "Demon Slayer",
   "id": 10,
   "banner": 0,
   "thumb": "banner_demon.jpg"
  },
  {
-  "pos": 11,
+  "pos": 10,
   "categories": "Dragonball",
   "id": 11,
   "banner": 1,
   "thumb": "banner_dragonball.jpg"
  },
  {
-  "pos": 12,
+  "pos": 11,
   "categories": "My Hero Academia",
   "id": 12,
   "banner": 0,
   "thumb": "banner_heroacademia.jpg"
  },
  {
-  "pos": 13,
+  "pos": 12,
   "categories": "Pokemon",
   "id": 13,
   "banner": 1,
   "thumb": "banner_pokemon.jpg"
+ },
+ {
+  "pos": 13,
+  "categories": "\"Seasonal\" Christmas",
+  "id": 1,
+  "banner": 1,
+  "thumb": "banner_season.jpg"
  }
 ]
