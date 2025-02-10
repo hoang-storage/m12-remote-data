@@ -1,43 +1,43 @@
 [
  {
-  "pos": 1,
+  "pos": 6,
   "categories": "Jujutsu Kaisen",
-  "id": 6,
+  "id": 8,
   "banner": 0,
   "thumb": "banner_jujutsu.jpg"
  },
  {
-  "pos": 2,
+  "pos": 12,
   "categories": "Cartoon",
-  "id": 12,
+  "id": 2,
   "banner": 1,
   "thumb": "banner_cartoon.jpg"
  },
  {
-  "pos": 3,
+  "pos": 13,
   "categories": "Cute",
-  "id": 13,
+  "id": 3,
   "banner": 0,
   "thumb": "banner_cute.jpg"
  },
  {
-  "pos": 4,
+  "pos": 14,
   "categories": "Chibi",
-  "id": 14,
+  "id": 4,
   "banner": 0,
   "thumb": "banner_chibi.jpg"
  },
  {
-  "pos": 5,
+  "pos": 15,
   "categories": "Anime",
-  "id": 15,
+  "id": 5,
   "banner": 1,
   "thumb": "banner_anime.jpg"
  },
  {
-  "pos": 6,
+  "pos": 8,
   "categories": "Naruto",
-  "id": 8,
+  "id": 6,
   "banner": 0,
   "thumb": "banner_naruto.jpg"
  },
@@ -49,69 +49,73 @@
   "thumb": "banner_onepiece.jpg"
  },
  {
-  "pos": 8,
+  "pos": 9,
   "categories": "Spy X Family",
   "id": 9,
   "banner": 0,
   "thumb": "banner_spy.jpg"
  },
  {
-  "pos": 9,
+  "pos": 10,
   "categories": "Demon Slayer",
   "id": 10,
   "banner": 0,
   "thumb": "banner_demon.jpg"
  },
  {
-  "pos": 10,
+  "pos": 11,
   "categories": "Dragonball",
   "id": 11,
   "banner": 1,
   "thumb": "banner_dragonball.jpg"
  },
  {
-  "pos": 11,
+  "pos": 1,
   "categories": "My Hero Academia",
-  "id": 1,
+  "id": 12,
   "banner": 0,
   "thumb": "banner_heroacademia.jpg"
  },
  {
-  "pos": 12,
+  "pos": 13,
   "categories": "Pokemon",
   "id": 13,
   "banner": 1,
   "thumb": "banner_pokemon.jpg"
  },
  {
-  "pos": 13,
+  "pos": 16,
   "categories": "\"Seasonal\" Christmas",
-  "id": 16,
+  "id": 1,
   "banner": 1,
   "thumb": "banner_season.jpg"
  },
  {
-  "pos": 14,
+  "pos": 2,
   "categories": "The seven deadly sins",
-  "id": 2,
-  "banner": 0
+  "id": 14,
+  "banner": 0,
+  "thumb": "_"
  },
  {
-  "pos": 15,
+  "pos": 3,
   "categories": "Attach on titans",
-  "id": 3,
-  "banner": 0
+  "id": 15,
+  "banner": 0,
+  "thumb": "_"
  },
  {
-  "pos": 16,
+  "pos": 4,
   "categories": "One-punch man",
-  "id": 4,
-  "banner": 0
+  "id": 16,
+  "banner": 0,
+  "thumb": "_"
  },
  {
-  "pos": 17,
+  "pos": 5,
   "categories": "Bleach",
-  "id": 5,
-  "banner": 0
+  "id": 17,
+  "banner": 0,
+  "thumb": "_"
  }
 ]
