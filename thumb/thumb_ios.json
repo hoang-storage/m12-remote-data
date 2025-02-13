@@ -717,7 +717,7 @@
     "name": "2_cartoon_75",
     "thumb": "thumb_2_cartoon_75",
     "pos": 102,
-    "premium": "v"
+    "premium": 0
   },
   {
     "id": 91,
@@ -6205,7 +6205,7 @@
     "name": "13_pokemon_93",
     "thumb": "thumb_13_pokemon_93",
     "pos": 93,
-    "premium": "v"
+    "premium": 0
   },
   {
     "id": 777,
