@@ -54,5 +54,13 @@
   "banner": 1,
   "thumb": "banner_steampunk.jpg",
   "thumb_card": "card_thumb_7.jpg"
+ },
+ {
+  "pos": 8,
+  "categories": "Line art",
+  "id": 8,
+  "banner": 0,
+  "thumb": "banner_line.jpg",
+  "thumb_card": "card_thumb_8.jpg"
  }
 ]
