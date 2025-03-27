@@ -1,138 +1,58 @@
 [
  {
-  "pos": 6,
-  "categories": "Jujutsu Kaisen",
-  "id": 8,
-  "banner": 0,
-  "thumb": "banner_jujutsu.jpg",
-  "thumb_card": "card_thumb_8.jpg"
- },
- {
-  "pos": 12,
-  "categories": "Cartoon",
-  "id": 2,
-  "banner": 1,
-  "thumb": "banner_cartoon.jpg",
-  "thumb_card": "card_thumb_2.jpg"
- },
- {
-  "pos": 13,
-  "categories": "Cute",
-  "id": 3,
-  "banner": 0,
-  "thumb": "banner_cute.jpg",
-  "thumb_card": "card_thumb_3.jpg"
- },
- {
-  "pos": 14,
-  "categories": "Chibi",
-  "id": 4,
-  "banner": 0,
-  "thumb": "banner_chibi.jpg",
-  "thumb_card": "card_thumb_4.jpg"
- },
- {
-  "pos": 15,
-  "categories": "Anime",
-  "id": 5,
-  "banner": 1,
-  "thumb": "banner_anime.jpg",
-  "thumb_card": "card_thumb_5.jpg"
- },
- {
-  "pos": 8,
-  "categories": "Naruto",
-  "id": 6,
-  "banner": 0,
-  "thumb": "banner_naruto.jpg",
-  "thumb_card": "card_thumb_6.jpg"
- },
- {
-  "pos": 7,
-  "categories": "Onepiece",
-  "id": 7,
-  "banner": 1,
-  "thumb": "banner_onepiece.jpg",
-  "thumb_card": "card_thumb_7.jpg"
- },
- {
-  "pos": 9,
-  "categories": "Spy X Family",
-  "id": 9,
-  "banner": 0,
-  "thumb": "banner_spy.jpg",
-  "thumb_card": "card_thumb_9.jpg"
- },
- {
-  "pos": 10,
-  "categories": "Demon Slayer",
-  "id": 10,
-  "banner": 0,
-  "thumb": "banner_demon.jpg",
-  "thumb_card": "card_thumb_10.jpg"
- },
- {
-  "pos": 11,
-  "categories": "Dragonball",
-  "id": 11,
-  "banner": 1,
-  "thumb": "banner_dragonball.jpg",
-  "thumb_card": "card_thumb_11.jpg"
- },
- {
   "pos": 1,
-  "categories": "My Hero Academia",
-  "id": 12,
-  "banner": 0,
-  "thumb": "banner_heroacademia.jpg",
-  "thumb_card": "card_thumb_12.jpg"
- },
- {
-  "pos": 13,
-  "categories": "Pokemon",
-  "id": 13,
-  "banner": 1,
-  "thumb": "banner_pokemon.jpg",
-  "thumb_card": "card_thumb_13.jpg"
- },
- {
-  "pos": 16,
-  "categories": "\"Seasonal\" Christmas",
+  "categories": "Animal",
   "id": 1,
   "banner": 1,
-  "thumb": "banner_season.jpg",
+  "thumb": "banner_animal.jpg",
   "thumb_card": "card_thumb_1.jpg"
  },
  {
   "pos": 2,
-  "categories": "The seven deadly sins",
-  "id": 14,
-  "banner": 0,
-  "thumb": "_",
-  "thumb_card": "card_thumb_14.jpg"
+  "categories": "Cars",
+  "id": 2,
+  "banner": 1,
+  "thumb": "banner_cars.jpg",
+  "thumb_card": "card_thumb_2.jpg"
  },
  {
   "pos": 3,
-  "categories": "Attach on titans",
-  "id": 15,
-  "banner": 0,
-  "thumb": "banner_attack",
-  "thumb_card": "card_thumb_15.jpg"
+  "categories": "Cute",
+  "id": 3,
+  "banner": 1,
+  "thumb": "banner_cute.jpg",
+  "thumb_card": "card_thumb_3.jpg"
  },
  {
   "pos": 4,
-  "categories": "One-punch man",
-  "id": 16,
-  "banner": 0,
-  "thumb": "_",
-  "thumb_card": "card_thumb_16.jpg"
+  "categories": "Medieval",
+  "id": 4,
+  "banner": 1,
+  "thumb": "banner_medival.jpg",
+  "thumb_card": "card_thumb_4.jpg"
  },
  {
   "pos": 5,
-  "categories": "Bleach",
-  "id": 17,
-  "banner": 0,
-  "thumb": "_",
-  "thumb_card": "card_thumb_17.jpg"
+  "categories": "Person",
+  "id": 5,
+  "banner": 1,
+  "thumb": "banner_person.jpg",
+  "thumb_card": "card_thumb_5.jpg"
+ },
+ {
+  "pos": 6,
+  "categories": "Si-fi",
+  "id": 6,
+  "banner": 1,
+  "thumb": "banner_sifi.jpg",
+  "thumb_card": "card_thumb_6.jpg"
+ },
+ {
+  "pos": 7,
+  "categories": "Steampunk",
+  "id": 7,
+  "banner": 1,
+  "thumb": "banner_steampunk.jpg",
+  "thumb_card": "card_thumb_7.jpg"
  }
 ]
