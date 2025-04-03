@@ -21,7 +21,7 @@
     "count": 12,
     "name": "Hydra",
     "thumb": "learn_3_12.png",
-    "premium": 0
+    "premium": 1
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "count": 10,
     "name": "Minotaur",
     "thumb": "learn_4_10.png",
-    "premium": 0
+    "premium": 1
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "count": 13,
     "name": "Tyrannosaurus Rex",
     "thumb": "learn_5_13.png",
-    "premium": 0
+    "premium": 1
   }
 ]
