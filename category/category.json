@@ -4,6 +4,7 @@
   "categories": "Jujutsu Kaisen",
   "id": 8,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_jujutsu.jpg",
   "thumb_card": "card_thumb_8.jpg"
  },
@@ -12,6 +13,7 @@
   "categories": "Cartoon",
   "id": 2,
   "banner": 1,
+  "topic": 1,
   "thumb": "banner_cartoon.jpg",
   "thumb_card": "card_thumb_2.jpg"
  },
@@ -20,6 +22,7 @@
   "categories": "Cute",
   "id": 3,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_cute.jpg",
   "thumb_card": "card_thumb_3.jpg"
  },
@@ -28,6 +31,7 @@
   "categories": "Chibi",
   "id": 4,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_chibi.jpg",
   "thumb_card": "card_thumb_4.jpg"
  },
@@ -36,6 +40,7 @@
   "categories": "Anime",
   "id": 5,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_anime.jpg",
   "thumb_card": "card_thumb_5.jpg"
  },
@@ -44,6 +49,7 @@
   "categories": "Naruto",
   "id": 6,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_naruto.jpg",
   "thumb_card": "card_thumb_6.jpg"
  },
@@ -52,6 +58,7 @@
   "categories": "Onepiece",
   "id": 7,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_onepiece.jpg",
   "thumb_card": "card_thumb_7.jpg"
  },
@@ -60,6 +67,7 @@
   "categories": "Spy X Family",
   "id": 9,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_spy.jpg",
   "thumb_card": "card_thumb_9.jpg"
  },
@@ -68,6 +76,7 @@
   "categories": "Demon Slayer",
   "id": 10,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_demon.jpg",
   "thumb_card": "card_thumb_10.jpg"
  },
@@ -76,6 +85,7 @@
   "categories": "Dragonball",
   "id": 11,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_dragonball.jpg",
   "thumb_card": "card_thumb_11.jpg"
  },
@@ -84,6 +94,7 @@
   "categories": "My Hero Academia",
   "id": 12,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_heroacademia.jpg",
   "thumb_card": "card_thumb_12.jpg"
  },
@@ -92,6 +103,7 @@
   "categories": "Pokemon",
   "id": 13,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_pokemon.jpg",
   "thumb_card": "card_thumb_13.jpg"
  },
@@ -100,6 +112,7 @@
   "categories": "\"Seasonal\" Christmas",
   "id": 1,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_season.jpg",
   "thumb_card": "card_thumb_1.jpg"
  },
@@ -108,6 +121,7 @@
   "categories": "The seven deadly sins",
   "id": 14,
   "banner": 0,
+  "topic": 0,
   "thumb": "_",
   "thumb_card": "card_thumb_14.jpg"
  },
@@ -116,6 +130,7 @@
   "categories": "Attach on titans",
   "id": 15,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_attack",
   "thumb_card": "card_thumb_15.jpg"
  },
@@ -124,6 +139,7 @@
   "categories": "One-punch man",
   "id": 16,
   "banner": 0,
+  "topic": 0,
   "thumb": "_",
   "thumb_card": "card_thumb_16.jpg"
  },
@@ -132,6 +148,7 @@
   "categories": "Bleach",
   "id": 17,
   "banner": 0,
+  "topic": 0,
   "thumb": "_",
   "thumb_card": "card_thumb_17.jpg"
  }
