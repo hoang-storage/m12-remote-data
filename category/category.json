@@ -4,6 +4,7 @@
   "categories": "Animal",
   "id": 1,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_animal.jpg",
   "thumb_card": "card_thumb_1.jpg"
  },
@@ -12,6 +13,7 @@
   "categories": "Cars",
   "id": 2,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_cars.jpg",
   "thumb_card": "card_thumb_2.jpg"
  },
@@ -20,6 +22,7 @@
   "categories": "Cute",
   "id": 3,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_cute.jpg",
   "thumb_card": "card_thumb_3.jpg"
  },
@@ -28,6 +31,7 @@
   "categories": "Medieval",
   "id": 4,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_medival.jpg",
   "thumb_card": "card_thumb_4.jpg"
  },
@@ -36,6 +40,7 @@
   "categories": "Person",
   "id": 5,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_person.jpg",
   "thumb_card": "card_thumb_5.jpg"
  },
@@ -44,6 +49,7 @@
   "categories": "Si-fi",
   "id": 6,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_sifi.jpg",
   "thumb_card": "card_thumb_6.jpg"
  },
@@ -52,6 +58,7 @@
   "categories": "Steampunk",
   "id": 7,
   "banner": 1,
+  "topic": 0,
   "thumb": "banner_steampunk.jpg",
   "thumb_card": "card_thumb_7.jpg"
  },
@@ -60,6 +67,7 @@
   "categories": "Line art",
   "id": 8,
   "banner": 0,
+  "topic": 0,
   "thumb": "banner_line.jpg",
   "thumb_card": "card_thumb_8.jpg"
  }
