@@ -1,7 +1,7 @@
 [
  {
-  "pos": 1,
-  "categories": "Animal",
+  "pos": 4,
+  "category": "Doodle Animal",
   "id": 1,
   "banner": 1,
   "topic": 0,
@@ -9,8 +9,8 @@
   "thumb_card": "card_thumb_1.jpg"
  },
  {
-  "pos": 2,
-  "categories": "Cars",
+  "pos": 5,
+  "category": "Doodle Cars",
   "id": 2,
   "banner": 1,
   "topic": 0,
@@ -18,17 +18,17 @@
   "thumb_card": "card_thumb_2.jpg"
  },
  {
-  "pos": 3,
-  "categories": "Cute",
+  "pos": 6,
+  "category": "Doodle Cute",
   "id": 3,
   "banner": 1,
-  "topic": 1,
+  "topic": 0,
   "thumb": "banner_cute.jpg",
   "thumb_card": "card_thumb_3.jpg"
  },
  {
-  "pos": 4,
-  "categories": "Medieval",
+  "pos": 7,
+  "category": "Doodle Medieval",
   "id": 4,
   "banner": 1,
   "topic": 0,
@@ -36,8 +36,8 @@
   "thumb_card": "card_thumb_4.jpg"
  },
  {
-  "pos": 5,
-  "categories": "Person",
+  "pos": 8,
+  "category": "Doodle Person",
   "id": 5,
   "banner": 1,
   "topic": 0,
@@ -45,8 +45,8 @@
   "thumb_card": "card_thumb_5.jpg"
  },
  {
-  "pos": 6,
-  "categories": "Si-fi",
+  "pos": 9,
+  "category": "Doodle Si-fi",
   "id": 6,
   "banner": 1,
   "topic": 0,
@@ -54,8 +54,8 @@
   "thumb_card": "card_thumb_6.jpg"
  },
  {
-  "pos": 7,
-  "categories": "Steampunk",
+  "pos": 10,
+  "category": "Doodle Steampunk",
   "id": 7,
   "banner": 1,
   "topic": 0,
@@ -63,12 +63,39 @@
   "thumb_card": "card_thumb_7.jpg"
  },
  {
-  "pos": 8,
-  "categories": "Line art",
+  "pos": 11,
+  "category": "Doodle Line art",
   "id": 8,
   "banner": 0,
   "topic": 0,
   "thumb": "banner_line.jpg",
   "thumb_card": "card_thumb_8.jpg"
+ },
+ {
+  "pos": 1,
+  "category": "Doodle",
+  "id": 18,
+  "banner": 0,
+  "topic": 0,
+  "thumb": "none",
+  "thumb_card": "card_thumb_18.jpg"
+ },
+ {
+  "pos": 2,
+  "category": "Tattoo",
+  "id": 19,
+  "banner": 0,
+  "topic": 0,
+  "thumb": "none",
+  "thumb_card": "card_thumb_19.jpg"
+ },
+ {
+  "pos": 3,
+  "category": "Logo",
+  "id": 20,
+  "banner": 0,
+  "topic": 0,
+  "thumb": "none",
+  "thumb_card": "card_thumb_20.jpg"
  }
 ]
