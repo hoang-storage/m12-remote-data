@@ -1,7 +1,7 @@
 [
  {
   "pos": 4,
-  "category": "Doodle Animal",
+  "categories": "Doodle Animal",
   "id": 1,
   "banner": 1,
   "topic": 0,
@@ -10,7 +10,7 @@
  },
  {
   "pos": 5,
-  "category": "Doodle Cars",
+  "categories": "Doodle Cars",
   "id": 2,
   "banner": 1,
   "topic": 0,
@@ -19,7 +19,7 @@
  },
  {
   "pos": 6,
-  "category": "Doodle Cute",
+  "categories": "Doodle Cute",
   "id": 3,
   "banner": 1,
   "topic": 0,
@@ -28,7 +28,7 @@
  },
  {
   "pos": 7,
-  "category": "Doodle Medieval",
+  "categories": "Doodle Medieval",
   "id": 4,
   "banner": 1,
   "topic": 0,
@@ -37,7 +37,7 @@
  },
  {
   "pos": 8,
-  "category": "Doodle Person",
+  "categories": "Doodle Person",
   "id": 5,
   "banner": 1,
   "topic": 0,
@@ -46,7 +46,7 @@
  },
  {
   "pos": 9,
-  "category": "Doodle Si-fi",
+  "categories": "Doodle Si-fi",
   "id": 6,
   "banner": 1,
   "topic": 0,
@@ -55,7 +55,7 @@
  },
  {
   "pos": 10,
-  "category": "Doodle Steampunk",
+  "categories": "Doodle Steampunk",
   "id": 7,
   "banner": 1,
   "topic": 0,
@@ -64,7 +64,7 @@
  },
  {
   "pos": 11,
-  "category": "Doodle Line art",
+  "categories": "Doodle Line art",
   "id": 8,
   "banner": 0,
   "topic": 0,
@@ -73,7 +73,7 @@
  },
  {
   "pos": 1,
-  "category": "Doodle",
+  "categories": "Doodle",
   "id": 18,
   "banner": 0,
   "topic": 0,
@@ -82,7 +82,7 @@
  },
  {
   "pos": 2,
-  "category": "Tattoo",
+  "categories": "Tattoo",
   "id": 19,
   "banner": 0,
   "topic": 0,
@@ -91,7 +91,7 @@
  },
  {
   "pos": 3,
-  "category": "Logo",
+  "categories": "Logo",
   "id": 20,
   "banner": 0,
   "topic": 0,
