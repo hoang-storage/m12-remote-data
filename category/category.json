@@ -4,7 +4,7 @@
   "categories": "Doodle Animal",
   "id": 1,
   "banner": 1,
-  "topic": 1,
+  "topic": 0,
   "thumb": "banner_animal.jpg",
   "thumb_card": "card_thumb_1.jpg"
  },
@@ -76,7 +76,7 @@
   "categories": "Doodle",
   "id": 18,
   "banner": 0,
-  "topic": 0,
+  "topic": 1,
   "thumb": "none",
   "thumb_card": "card_thumb_18.jpg"
  },
